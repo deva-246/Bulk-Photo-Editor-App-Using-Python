@@ -10,7 +10,6 @@
         
         1.3 ImageFilter
         
-        
     2. os
     
     3. tkinter
