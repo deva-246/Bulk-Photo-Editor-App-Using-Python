@@ -3,13 +3,18 @@
 ## Python packages
 
     1. PIL
+    
         1.1 Image
+        
         1.2 ImageEnhance
+        
         1.3 ImageFilter
+        
         
     2. os
     
     3. tkinter
+    
         3.1 messagebox
 
 
