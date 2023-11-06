@@ -19,11 +19,11 @@
 
 5. Click the necessary actions which must be carried out on the bulk number of images, the edited images will be automatically generated to destination folders respectively.
 
-     4.1 ./bgchange
+     4.1 **./bgchange**
 
-     4.2 ./editedimgs
+     4.2 **./editedimgs**
 
-     4.3 ./Enhancedimages
+     4.3 **./Enhancedimages**
 
-     4.4 ./Noisyedits
+     4.4 **./Noisyedits**
 
