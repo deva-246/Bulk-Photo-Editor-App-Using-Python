@@ -1,5 +1,16 @@
 # Photo-Editor-App-Using-Python
 
+## Python packages
+
+    1. PIL
+        1.1 Image
+        1.2 ImageEnhance
+        1.3 ImageFilter
+      2. os
+      3. tkinter
+          3.1 messagebox
+
+
 ## Image processing
 
 This process requires lot of image variations, for any further processing. Taking that into consideration, using python we can automate the process of delivering various modes of images that best suits for any image processing step. Advantage of integrating this idea with python is that we can automate the process, for a bulk no.of images. On carrying out this process, Bulk variations of images can be generated.
