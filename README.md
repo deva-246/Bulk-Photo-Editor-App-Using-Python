@@ -1,5 +1,20 @@
 # Photo-Editor-App-Using-Python
 
+In today’s world, data plays a vital role in every industry vertical. Images can be one of the sources of extracting data. An image can be defined as a matrix of pixels, and each pixel represents a color that can be treated as a data value.
+
+Image Processing comes in handy to uncover underlying data from any image. It helps you extract, manipulate, and filter data from an image. The main objective of image processing is to uncover some valuable information from images. 
+
+There are various applications of image processing, such as image sharpening, image restoration, pattern recognition, video processing, etc. Most image processing applications come under data analysis and data science. 
+
+And when it comes to data analysis, the only language that comes to our mind is Python. It is also the most preferred language for image processing because of its extensive set of libraries, which makes it very easy for developers to perform complex operations using simple lines of code. 
+
+## Prerequisites
+
+    1. Python 3
+
+    2. Pycharm/ VS code IDE
+    
+
 ## Python packages
 
     1. PIL
