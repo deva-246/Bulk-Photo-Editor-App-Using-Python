@@ -2,13 +2,13 @@
 
 **Path inside each image editing functions**
 
-    #this is the source folder
-    
-    path = './imgs'
-  
-    #this is the destination folder
-    
-    pathOut = '/Enhancedimages'
+            #this is the source folder
+            
+            path = './imgs'
+          
+            #this is the destination folder
+            
+            pathOut = '/Enhancedimages'
 
 
 1. Import the necessary bulk images into **./imgs** folder, which is also known as source folder
